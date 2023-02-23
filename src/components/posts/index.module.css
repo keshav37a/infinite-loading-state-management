@@ -1,0 +1,11 @@
+.posts__single {
+  display: flex;
+  margin: 16px;
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: 0 0 5px darkgray;
+}
+
+.posts__count {
+  margin-right: 10px;
+}
